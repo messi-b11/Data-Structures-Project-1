@@ -107,12 +107,8 @@ cout << temp;
 
 You must ensure that your program outputs the correct results. Make sure that you know matrix transpose, addition, and multiplication. Write those methods. Your input for each matrix will have the following structure. Note that in the first line, we have 5 rows, 8 columns, 0 being the common value and 10 being the number of non-sparse values.
 
-5 8 0 10
-100 0 0 900 0 500 0 0
-0 0 0 0 200 0 0 300
-0 400 0 0 0 0 800 0
-0 0 200 0 0 0 0 0
-1600 0 0 0 700 0 0 0
+![image](https://github.com/user-attachments/assets/fca39a59-d0a2-4fbc-9177-a1a05b28ff27)
+
 
 After the first input matrix you will read the second input matrix which will have the similar format.
 You must ensure that your program outputs the correct results.
