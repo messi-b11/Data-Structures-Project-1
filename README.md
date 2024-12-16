@@ -136,35 +136,3 @@ In this project, the only header you will use is #include <iostream> and using n
 
 2.
 None of the projects is a group project. Consulting with other members of this class our seeking coding solutions from other sources including the web on programming projects is strictly not allowed and plagiarism charges will be imposed on students who do not follow this.
-
-Project Submission Requirements:
-
-1.
-Code Development (75%): Implement the provided class structure for the Sparse Matrix by writing the necessary methods to manipulate sparse matrices. Your implementation must be fully compatible with the main program provided, which is designed to create and manipulate Sparse Matrice objects. Specifically, your code should include methods for adding, multiplying, and transposing matrices and any other operations specified in the project guidelines. Your code must run successfully with the main program and the corresponding input, demonstrating the correct functionality of the Sparse Matrix class and its methods.
-
-•
-LLM/AI Tool Usage: You can use Large Language Models (LLMs) or AI tools, such as GitHub Copilot, to assist in writing and refining your classes and their methods. If you did not use LLM or AI tools to write your project, you still have to show for 2. below how you would have used it to find a solution to the project. You need to make sure that you use the class structure provided to you as the basis, and failure to do that will result in zero points for this project.
-
-2.
-LLM and GitHub Copilot Usage Documentation (15%): If you choose to use LLM tools or GitHub Copilot, you must document your usage. This documentation (in PDF Format) should include:
-
-•
-Prompts and Suggestions: Provide the specific prompts or suggestions you used, such as "Generate a method for adding two sparse matrices in C++" or "How can I implement a transpose function for a sparse matrix?"
-
-•
-Rationale: Explain why you chose these prompts or suggestions and how they contributed to the development of your classes. For instance, you might describe how a particular suggestion helped you structure the addition method or handle edge cases in matrix multiplication.
-
-•
-Incremental Development: Detail how you used the tools to build and refine your classes and methods incrementally. For example, you might start by generating a basic structure for the classes and then refine individual methods, ensuring each one integrates smoothly with the main program.
-
-3.
-Debugging and Testing Plan (10%): Submit a comprehensive debugging and testing plan. This should include:
-
-•
-Specific Tests: Describe the tests you conducted on your class methods, such as checking that matrix addition works correctly when combining matrices of different sparsities or ensuring that the transpose operation correctly swaps rows and columns.
-
-•
-Issues and Resolutions: Document any issues you encountered, such as handling zero values or optimizing for performance, and how you resolved them.
-
-•
-Verification: Explain how you verified that your classes work correctly with the provided main program. This could involve running a series of test cases the main program provides or creating additional test cases to ensure robustness.
